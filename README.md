@@ -23,7 +23,6 @@
   <img algn="center" alt="PowerBI" src= "https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white"/>
 <div>
 
-## Linguagens que mais utilizo!
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DannielM&size_weight=0.5&count_weight=0.5)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DannielM&langs_count=8)
 
