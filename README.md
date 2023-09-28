@@ -1,10 +1,13 @@
 
 ### Eu sou Danniel Mulato 👋
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-mulato)
+[![website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](www.linkedin.com/in/daniel-mulato)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/daniel-mulato)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://www.linkedin.com/cientista_genial)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.linkedin.com/cientista_genial)
+[![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.linkedin.com/cientista_genial)
 
-![Danniel GitHub stats](https://github-readme-stats.vercel.app/api?username=DannielM&show_icons=true&theme=radical)
+![Danniel GitHub stats](https://github-readme-stats.vercel.app/api?username=DannielM&show_icons=true&theme=tokyonight)
 
 ## Tecnolgias que eu uso no meu dia a dia 👇
 <div style="display: inline_block"><br>
