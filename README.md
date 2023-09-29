@@ -2,12 +2,12 @@
 ### Eu sou Danniel Mulato 👋
 
 
-<div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+<div align="left">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="200"/>
 </div>
 
 <!-- Social Media -->
-<div id="badges" align="center">
+<div id="badges" align="left">
  <a href="http://www.Danniel">
    <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Website Badge">
 	   
@@ -26,14 +26,14 @@
  <!-- Github Activities -->
  ## 📈 Github Stats
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-     <p align="center">
+     <p align="left">
          <img src="https://streak-stats.demolab.com?user=DannielM&theme=monokai-metallian&mode=weekly&fire=DD2727">
      </p>
  </a>
 
 
 <h3>💻 GitHub Profile Stats</h3>
-<p align="center">
+<p align="left">
 <a href="https://github.com/DannielM">
   <img height="190em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=DannielM&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
 </a>
@@ -62,7 +62,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
-<p align="center">
+<p align="left">
 <a href="https://github.com/DannielM">
    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=DannielM&layout=compact&langs_count=8&theme=algolia"/>
 </a>
