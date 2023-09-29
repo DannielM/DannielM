@@ -34,7 +34,7 @@
 <h3>💻 GitHub Profile Stats</h3>
 <p align="left">
 <a href="https://github.com/DannielM">
-  <img height="190em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=DannielM&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="200em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=DannielM&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
 </a>
 </p>
 
