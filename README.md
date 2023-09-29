@@ -1,7 +1,6 @@
 
 ### Eu sou Danniel Mulato 👋
 
-
 <div align="left">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="200"/>
 </div>
@@ -23,13 +22,14 @@
   <a href="#"><img src="https://komarev.com/ghpvc/?username=DannielM&style=for-the-badge&color=red" alt="Profile Views"></a>
 </div>
 
- <!-- Github Activities -->
- ## 📈 Github Stats
-  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-     <p align="left">
-         <img src="https://streak-stats.demolab.com?user=DannielM&theme=monokai-metallian&mode=weekly&fire=DD2727">
-     </p>
+ <h3>💻 GitHub Profile Stats</h3>
+ <a href="https://github.com/DannielM/github-readme-stats">
+     <img alt="My Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=DannielM&show_icons=true&include_all_commits=true&count_private=true&theme=algolia&hide_border=true&bg_color=1F222E&title_color=Blue&icon_color=#66f8d8" height="192px">
+ <a href="https://github.com/DannielM/github-readme-stats">
+     <img alt="Danniel Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SuriyaTasmimDisha&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=#d866f8&title_color=#6686f8&icon_color=#d866f8&hide=Jupyter%20Notebook" height="192px">
  </a>
+ </a>
+
 
 <h3>💻 GitHub Profile Stats</h3>
 <p align="left">
@@ -38,12 +38,9 @@
 </a>
 </p>
 
-
-[![Gráfico de Atividades](https://github-readme-activity-graph.vercel.app/graph?username=DannielM&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&area=true&hide_border=true)](https://github.com/DannielM/github-readme-activity-graph)
-
- <a href="https://github.com/DannielM/github-readme-activity-graph">
-     <img alt="SuriyaDisha's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=DannielM&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&area=true&hide_border=true" width="600" height="200">
- </a>
+<a href="https://github.com/DannielM/github-readme-activity-graph">
+     <img alt="SuriyaDisha's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=DannielM&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&area=true&hide_border=true">
+</a>
 
 ## Tecnolgias que eu uso no meu dia a dia 👇
 
