@@ -54,7 +54,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
-<h3>💻 GitHub Stat Trophy</h3>
+<h3> 🏆 GitHub Stat Trophy</h3>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=DannielM&theme=algolia)](https://github.com/DannielM/github-profile-trophy)
 
