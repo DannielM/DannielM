@@ -29,6 +29,11 @@
      <img alt="Danniel Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DannielM&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=#d866f8&title_color=#6686f8&icon_color=#d866f8&hide=Jupyter%20Notebook" height="192px">
  </a>
  </a>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DannielM&theme=tokyonight" alt="Aditya GitHub Streak">
+</p>
+ 
 <h3>📈 Latest Activity Graph</h3>
 <a href="https://github.com/DannielM/github-readme-activity-graph">
      <img alt="Danniel's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=DannielM&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&area=true&hide_border=true">
@@ -56,6 +61,8 @@
 <h3> 🏆 GitHub Stat Trophy</h3>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=DannielM&theme=algolia)](https://github.com/DannielM/github-profile-trophy)
+
+
 
 
 
