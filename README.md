@@ -30,9 +30,8 @@
  </a>
  </a>
 
-
 <a href="https://github.com/DannielM/github-readme-activity-graph">
-     <img alt="SuriyaDisha's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=DannielM&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&area=true&hide_border=true">
+     <img alt="Danniel's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=DannielM&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&area=true&hide_border=true">
 </a>
 
 ## Tecnolgias que eu uso no meu dia a dia 👇
