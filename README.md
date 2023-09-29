@@ -31,7 +31,6 @@
      </p>
  </a>
 
-
 <h3>💻 GitHub Profile Stats</h3>
 <p align="left">
 <a href="https://github.com/DannielM">
@@ -39,9 +38,13 @@
 </a>
 </p>
 
+
 [![Gráfico de Atividades](https://github-readme-activity-graph.vercel.app/graph?username=DannielM&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&area=true&hide_border=true)](https://github.com/DannielM/github-readme-activity-graph)
 
-  
+ <a href="https://github.com/DannielM/github-readme-activity-graph">
+     <img alt="SuriyaDisha's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=DannielM&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&area=true&hide_border=true" width="600" height="200">
+ </a>
+
 ## Tecnolgias que eu uso no meu dia a dia 👇
 
 <div>
