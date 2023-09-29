@@ -29,7 +29,7 @@
      <img alt="Danniel Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DannielM&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=#d866f8&title_color=#6686f8&icon_color=#d866f8&hide=Jupyter%20Notebook" height="192px">
  </a>
  </a>
-
+<h3>📈 Latest Activity Graph</h3>
 <a href="https://github.com/DannielM/github-readme-activity-graph">
      <img alt="Danniel's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=DannielM&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&area=true&hide_border=true">
 </a>
@@ -44,13 +44,13 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" title="Pandas" alt="Pandas" width="40" height="40"/>&nbsp;
   <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg"  title="Seaborn" alt="Seaborn" width="40" height="40"/>&nbsp;
   <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" title="TensorFlow" alt="TensorFlow" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" title="Scikit-learn" alt="Scikit-learn" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/gatsby/gatsby-original.svg" title="Gatsby"  alt="Gatsby" width="40" height="40"/>&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/numpy/numpy-ar21.svg" title="NumPy" alt="NumPy" width="90" height="40"/>&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" title="Scikit-learn" alt="Scikit-learn" width="90" height="40"/>&nbsp;
+  <img src="https://matplotlib.org/2.2.5/_images/sphx_glr_logos2_001.png" title="Matplotlib"  alt="Matplotlib" width="90" height="50"/>&nbsp;
   <img src="https://user-images.githubusercontent.com/25181517/190887576-6653f877-8439-4521-82f3-403086ead892.png" title="Sublime Text"  alt="Sublime Text" width="40" height="40"/>&nbsp;
   <img src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png" title="VsCode" alt="VsCode" width="40" height="40"/>&nbsp;
   <img src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png" title="GitHub" alt="GitHub" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="90" height="50"/>
 </div>
 
 <h3> 🏆 GitHub Stat Trophy</h3>
