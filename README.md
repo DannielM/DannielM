@@ -30,7 +30,7 @@
  </a>
  </a>
 
-<p align="center">
+<p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=DannielM&theme=tokyonight" alt="Aditya GitHub Streak">
 </p>
  
