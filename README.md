@@ -22,7 +22,8 @@
   <a href="#"><img src="https://komarev.com/ghpvc/?username=DannielM&style=for-the-badge&color=blue" alt="Profile Views"></a>
 </div>
 
- <h3> 📊 Profile Stats</h3>
+
+<h3> 📊 Profile Stats</h3>
  <a href="https://github.com/DannielM/github-readme-stats">
      <img alt="My Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=DannielM&show_icons=true&include_all_commits=true&count_private=true&theme=algolia&hide_border=true&bg_color=1F222E&title_color=Blue&icon_color=#66f8d8" height="192px">
  <a href="https://github.com/DannielM/github-readme-stats">
@@ -39,7 +40,7 @@
      <img alt="Danniel's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=DannielM&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&area=true&hide_border=true">
 </a>
 
-<h3> 🖨️ Technologies</h3>
+<h3> 👨‍💻 Languages and Tools</h3>
 <div>
   <img src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" title="R" alt="R" width="40" height="40"/>&nbsp;
