@@ -2,7 +2,7 @@
 ### Eu sou Danniel Mulato 👋
 
 <div align="left">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="200"/>
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="800" height="400"/>
 </div>
 
 <!-- Social Media -->
@@ -18,6 +18,10 @@
   </a>
   <a href="https://www.youtube.com/@dannielfisico2666">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge">
+  </a> 
+
+  <a href="https://www.instagram.com/@dannielfisico2666">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagra Badge">
   </a> 
   <a href="#"><img src="https://komarev.com/ghpvc/?username=DannielM&style=for-the-badge&color=red" alt="Profile Views"></a>
 </div>
