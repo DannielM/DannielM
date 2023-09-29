@@ -20,13 +20,13 @@
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge">
   </a> 
 
-  <a href="https://www.instagram.com/@dannielfisico2666">
+  <a href="https://www.instagram.com/@cientista_genial">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagra Badge">
   </a> 
-  <a href="#"><img src="https://komarev.com/ghpvc/?username=DannielM&style=for-the-badge&color=red" alt="Profile Views"></a>
+  <a href="#"><img src="https://komarev.com/ghpvc/?username=DannielM&style=for-the-badge&color=blue" alt="Profile Views"></a>
 </div>
 
- <h3>💻 GitHub Profile Stats</h3>
+ <h3>💻 Estatísticas do Perfil</h3>
  <a href="https://github.com/DannielM/github-readme-stats">
      <img alt="My Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=DannielM&show_icons=true&include_all_commits=true&count_private=true&theme=algolia&hide_border=true&bg_color=1F222E&title_color=Blue&icon_color=#66f8d8" height="192px">
  <a href="https://github.com/DannielM/github-readme-stats">
@@ -59,11 +59,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
-<p align="left">
-<a href="https://github.com/DannielM">
-   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=DannielM&layout=compact&langs_count=8&theme=algolia"/>
-</a>
-</p>
+
 
 
 
