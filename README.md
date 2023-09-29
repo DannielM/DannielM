@@ -26,17 +26,10 @@
  <a href="https://github.com/DannielM/github-readme-stats">
      <img alt="My Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=DannielM&show_icons=true&include_all_commits=true&count_private=true&theme=algolia&hide_border=true&bg_color=1F222E&title_color=Blue&icon_color=#66f8d8" height="192px">
  <a href="https://github.com/DannielM/github-readme-stats">
-     <img alt="Danniel Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SuriyaTasmimDisha&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=#d866f8&title_color=#6686f8&icon_color=#d866f8&hide=Jupyter%20Notebook" height="192px">
+     <img alt="Danniel Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DannielM&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=#d866f8&title_color=#6686f8&icon_color=#d866f8&hide=Jupyter%20Notebook" height="192px">
  </a>
  </a>
 
-
-<h3>💻 GitHub Profile Stats</h3>
-<p align="left">
-<a href="https://github.com/DannielM">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=DannielM&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" height="200" width="600"/>
-</a>
-</p>
 
 <a href="https://github.com/DannielM/github-readme-activity-graph">
      <img alt="SuriyaDisha's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=DannielM&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&area=true&hide_border=true">
