@@ -49,7 +49,6 @@
   <img src="https://user-images.githubusercontent.com/25181517/183914128-3fc88b4a-4ac1-40e6-9443-9a30182379b7.png" title="Jupyter" alt="Jupyter" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" title="Pandas" alt="Pandas" width="40" height="40"/>&nbsp;
   <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg"  title="Seaborn" alt="Seaborn" width="40" height="40"/>&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" title="TensorFlow" alt="TensorFlow" width="40" height="40"/>&nbsp;
   <img src="https://www.vectorlogo.zone/logos/numpy/numpy-ar21.svg" title="NumPy" alt="NumPy" width="80" height="40"/>&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" title="Scikit-learn" alt="Scikit-learn" width="50" height="50"/>&nbsp;
   <img src="https://static.javatpoint.com/tutorial/matplotlib/images/matplotlib-tutorial.png" title="Matplotlib"  alt="Matplotlib" width="40" height="40"/>&nbsp;
