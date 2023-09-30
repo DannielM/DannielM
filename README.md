@@ -52,14 +52,15 @@
   <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" title="TensorFlow" alt="TensorFlow" width="40" height="40"/>&nbsp;
   <img src="https://www.vectorlogo.zone/logos/numpy/numpy-ar21.svg" title="NumPy" alt="NumPy" width="80" height="40"/>&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" title="Scikit-learn" alt="Scikit-learn" width="50" height="50"/>&nbsp;
-  <img src="https://matplotlib.org/2.2.5/_images/sphx_glr_logos2_001.png" title="Matplotlib"  alt="Matplotlib" width="40" height="40"/>&nbsp;
+  <img src="https://static.javatpoint.com/tutorial/matplotlib/images/matplotlib-tutorial.png" title="Matplotlib"  alt="Matplotlib" width="40" height="40"/>&nbsp;
   <img src="https://user-images.githubusercontent.com/25181517/190887576-6653f877-8439-4521-82f3-403086ead892.png" title="Sublime Text"  alt="Sublime Text" width="40" height="40"/>&nbsp;
   <img src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png" title="VsCode" alt="VsCode" width="40" height="40"/>&nbsp;
   <img src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png" title="GitHub" alt="GitHub" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
   <img src="https://miro.medium.com/max/1042/1*L2u_koKpa1lcjvB8DEDHsg.jpeg" title="Colab" **alt="Colb" width="40" height="40"/>
-  <img src="https://d11wkw82a69pyn.cloudfront.net/wm-reply/siteassets/images/power%20bi.png" title="Power BI" **alt="Power BI" width="40" height="40"/>
-  <img src="" title="SQL" **alt="SQL" width="40" height="40"/>
+  <img src="https://d11wkw82a69pyn.cloudfront.net/wm-reply/siteassets/images/power%20bi.png" title="Power BI" **alt="Power BI" width="40" height="30"/>
+  <img src="https://img.shields.io/badge/-SQL-003B57?style=flat-square&logo=sqlite&logoColor=white" title="SQL" **alt="SQL"/>
+  <img src="https://github.com/manvimadan12/manvimadan12/blob/master/images/sql.png" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
 <h3> 🏆 GitHub Stat Trophy</h3>
