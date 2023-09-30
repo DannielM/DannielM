@@ -57,10 +57,9 @@
   <img src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png" title="VsCode" alt="VsCode" width="40" height="40"/>&nbsp;
   <img src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png" title="GitHub" alt="GitHub" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
-  <img src="https://miro.medium.com/max/1042/1*L2u_koKpa1lcjvB8DEDHsg.jpeg" title="Colab" **alt="Colb" width="40" height="40"/>
   <img src="https://d11wkw82a69pyn.cloudfront.net/wm-reply/siteassets/images/power%20bi.png" title="Power BI" **alt="Power BI" width="40" height="30"/>
   <img src="https://img.shields.io/badge/-SQL-003B57?style=flat-square&logo=sqlite&logoColor=white" title="SQL" **alt="SQL"/>
-  <img src="https://github.com/manvimadan12/manvimadan12/blob/master/images/sql.png" title="Git" **alt="Git" width="40" height="40"/>
+  <img src="https://github.com/saumya66/saumya66/blob/main/assets/logo/colab.png" title="Colab" **alt="Colb" width="50" height="50"/>
 </div>
 
 <h3> 🏆 GitHub Stat Trophy</h3>
