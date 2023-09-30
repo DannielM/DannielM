@@ -59,7 +59,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
   <img src="https://d11wkw82a69pyn.cloudfront.net/wm-reply/siteassets/images/power%20bi.png" title="Power BI" **alt="Power BI" width="40" height="30"/>
   <img src="https://img.shields.io/badge/-SQL-003B57?style=flat-square&logo=sqlite&logoColor=white" title="SQL" **alt="SQL"/>
-  <img src="https://github.com/saumya66/saumya66/blob/main/assets/logo/colab.png" title="Colab" **alt="Colb" width="50" height="50"/>
+  <img src="https://github.com/saumya66/saumya66/blob/main/assets/logo/colab.png" title="Colab" **alt="Colb" width="40" height="40"/>
 </div>
 
 <h3> 🏆 GitHub Stat Trophy</h3>
